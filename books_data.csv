@@ -1,0 +1,601 @@
+BookID,Title,Author,Genre,Price,PublishDate,CopiesAvailable
+1,The Fascinating Saga,Michael Johnson,Science Fiction,33.79,03-30-85,9
+2,The Mysterious Journey,Jane Brown,Science Fiction,44.09,04-08-18,20
+3,The Amazing Tale,Michael Brown,Science Fiction,11.2,03-26-10,18
+4,The Intriguing Adventure,Jane Williams,Biography,31.13,08-17-15,12
+5,The Fascinating Saga,Alice Miller,Mystery,34.6,03-06-16,6
+6,The Intriguing Mystery,David Garcia,Fantasy,18.45,06-27-64,7
+7,The Mysterious Saga,John Davis,History,10.96,07-30-59,18
+8,The Fascinating Story,David Brown,Biography,21.07,02-23-82,16
+9,The Amazing Tale,Emily Brown,Biography,5.25,07-02-19,13
+10,The Fascinating Tale,David Miller,Mystery,12.89,09-21-20,20
+11,The Mysterious Story,Alice Jones,Fiction,8.38,02-16-16,10
+12,The Wonderful Adventure,Emily Johnson,Biography,20.01,04-04-74,19
+13,The Boring Journey,Jane Davis,Mystery,7.25,05-07-12,15
+14,The Boring Story,Bob Johnson,Fantasy,5.86,02-22-17,3
+15,The Fascinating Journey,Alice Williams,Biography,36.11,09-17-64,17
+16,The Boring Journey,David Davis,History,27.89,10-04-03,19
+17,The Intriguing Journey,David Brown,Fiction,9.09,03-30-37,7
+18,The Wonderful Saga,Michael Smith,Science Fiction,17.92,09-30-90,3
+19,The Fascinating Mystery,Michael Garcia,Mystery,40.14,10-27-29,14
+20,The Fascinating Story,Sarah Johnson,Biography,33.21,05-08-23,5
+21,The Fascinating Adventure,Jane Williams,History,8.22,10-13-68,11
+22,The Intriguing Journey,David Miller,Mystery,40.96,05-06-20,12
+23,The Intriguing Saga,Alice Davis,Mystery,20.86,09-16-09,14
+24,The Intriguing Mystery,Jane Johnson,Biography,38.33,04-11-19,12
+25,The Amazing Mystery,Bob Garcia,History,40.3,05-07-56,8
+26,The Boring Saga,John Miller,Fiction,37.42,10-04-42,9
+27,The Mysterious Journey,Bob Williams,Fantasy,29.83,12-04-60,6
+28,The Mysterious Saga,Bob Miller,Fiction,35.14,01-03-56,18
+29,The Amazing Saga,John Brown,Mystery,18.43,11-11-81,15
+30,The Mysterious Tale,Bob Davis,Fantasy,16.01,08-06-07,13
+31,The Amazing Story,David Davis,Non-Fiction,15.31,09-23-80,16
+32,The Boring Story,Bob Johnson,Fiction,37.28,09-26-13,11
+33,The Boring Saga,Alice Miller,Fantasy,18.88,11-03-13,6
+34,The Fascinating Story,John Brown,Mystery,28.02,11-06-63,19
+35,The Amazing Adventure,Alice Garcia,Science Fiction,41.53,01-28-14,15
+36,The Boring Tale,Alice Smith,Fantasy,31.78,09-11-80,12
+37,The Mysterious Tale,Emily Smith,Mystery,15.61,07-11-44,6
+38,The Intriguing Saga,John Brown,Biography,31.35,10-06-27,15
+39,The Intriguing Journey,Emily Miller,Non-Fiction,40.73,01-04-71,8
+40,The Intriguing Adventure,Emily Johnson,Fiction,30.87,01-06-42,1
+41,The Mysterious Mystery,Michael Johnson,Biography,8.36,10-20-61,12
+42,The Fascinating Adventure,David Johnson,History,16.84,04-22-31,5
+43,The Amazing Journey,David Brown,Fiction,20.46,03-18-20,6
+44,The Intriguing Adventure,David Davis,Mystery,31.48,04-28-96,4
+45,The Intriguing Saga,Bob Davis,Non-Fiction,46.19,11-21-64,8
+46,The Fascinating Saga,Sarah Brown,Science Fiction,30.56,07-12-98,9
+47,The Amazing Tale,John Garcia,Science Fiction,33.83,07-24-38,11
+48,The Boring Mystery,Bob Johnson,History,20.73,07-14-33,11
+49,The Fascinating Saga,David Johnson,Fantasy,14.37,01-26-97,14
+50,The Boring Mystery,John Garcia,Non-Fiction,35.8,11-21-63,2
+51,The Intriguing Mystery,David Smith,History,48.11,01-29-82,13
+52,The Intriguing Tale,Alice Smith,History,26.06,03-28-17,17
+53,The Mysterious Story,Michael Brown,Non-Fiction,41.34,08-29-06,1
+54,The Boring Tale,Jane Brown,Fiction,22.75,11-07-84,14
+55,The Intriguing Mystery,Alice Williams,History,24.43,08-23-12,18
+56,The Boring Adventure,Sarah Williams,Fiction,10.81,02-11-95,4
+57,The Amazing Story,Michael Miller,Mystery,12.6,03-26-00,14
+58,The Amazing Tale,Alice Garcia,Mystery,38.1,12-10-35,15
+59,The Mysterious Adventure,Bob Williams,Mystery,5.69,06-25-13,8
+60,The Boring Mystery,John Miller,Fiction,43.17,11-03-23,18
+61,The Fascinating Saga,Jane Brown,Non-Fiction,14.93,04-28-50,13
+62,The Fascinating Tale,David Davis,Biography,8.82,05-23-92,18
+63,The Fascinating Saga,Jane Garcia,Biography,25.74,11-01-37,18
+64,The Amazing Tale,Emily Williams,Fiction,49.19,04-08-00,19
+65,The Intriguing Mystery,Michael Williams,Non-Fiction,12.96,12-15-12,9
+66,The Amazing Journey,Sarah Smith,Fantasy,39.79,06-03-74,17
+67,The Wonderful Saga,Jane Williams,Biography,43.66,09-11-10,11
+68,The Intriguing Saga,Jane Davis,Non-Fiction,18.63,07-23-71,16
+69,The Wonderful Journey,Emily Garcia,Science Fiction,37.72,08-15-13,19
+70,The Fascinating Adventure,Michael Davis,Fantasy,11.31,11-16-23,19
+71,The Boring Journey,Sarah Garcia,Science Fiction,30.08,07-25-19,6
+72,The Intriguing Saga,Emily Davis,Biography,14.75,12-27-69,11
+73,The Amazing Mystery,David Davis,Biography,28.57,04-30-77,1
+74,The Intriguing Tale,Jane Garcia,Biography,41.1,10-29-57,18
+75,The Intriguing Saga,Alice Davis,History,29.8,08-06-12,4
+76,The Boring Journey,Sarah Williams,Fantasy,21.76,12-09-01,14
+77,The Mysterious Mystery,Michael Brown,Mystery,45.76,11-01-30,20
+78,The Boring Saga,Bob Smith,Fiction,39.83,12-19-26,6
+79,The Boring Mystery,David Williams,Biography,16.65,06-13-05,7
+80,The Wonderful Saga,Sarah Jones,History,21.5,10-06-76,9
+81,The Mysterious Adventure,John Miller,Mystery,31.8,01-31-08,14
+82,The Intriguing Journey,David Garcia,History,21.15,12-14-94,8
+83,The Mysterious Mystery,Emily Garcia,History,15.66,12-20-49,1
+84,The Intriguing Saga,Alice Garcia,Science Fiction,9.87,05-27-71,6
+85,The Boring Adventure,Bob Jones,History,33.51,05-15-04,20
+86,The Mysterious Mystery,David Smith,Mystery,20.34,12-04-72,19
+87,The Fascinating Adventure,Michael Davis,Biography,40.44,11-27-42,16
+88,The Amazing Story,Sarah Garcia,Fantasy,46.39,12-03-22,10
+89,The Wonderful Saga,Alice Smith,History,37.15,09-26-97,4
+90,The Wonderful Tale,John Davis,Science Fiction,24.62,07-29-09,18
+91,The Wonderful Journey,Michael Johnson,Fantasy,18.64,08-09-40,6
+92,The Fascinating Tale,Michael Williams,Fantasy,28.34,09-28-78,12
+93,The Mysterious Tale,Emily Miller,Mystery,8.5,07-16-76,20
+94,The Intriguing Journey,John Garcia,Fiction,11.99,01-03-14,1
+95,The Wonderful Journey,David Smith,History,21.8,04-06-16,6
+96,The Intriguing Saga,David Brown,History,9.29,01-19-32,5
+97,The Wonderful Journey,John Johnson,Science Fiction,11.65,02-10-43,4
+98,The Intriguing Journey,Sarah Garcia,History,44.34,06-19-12,3
+99,The Fascinating Tale,John Brown,Mystery,37.43,08-21-14,12
+100,The Fascinating Mystery,Jane Brown,Science Fiction,14.3,07-28-08,9
+101,The Mysterious Tale,Michael Miller,Fantasy,18.54,02-24-26,9
+102,The Mysterious Mystery,David Williams,Fantasy,40.98,06-18-92,13
+103,The Intriguing Mystery,Alice Miller,Fantasy,6.77,06-17-56,10
+104,The Amazing Journey,Sarah Jones,Biography,6.67,11-16-62,8
+105,The Mysterious Adventure,Jane Johnson,Fiction,42.92,11-29-15,9
+106,The Amazing Saga,Emily Williams,Non-Fiction,22.48,05-22-75,16
+107,The Wonderful Story,Sarah Smith,Biography,16.77,12-12-18,12
+108,The Amazing Tale,Michael Miller,Fiction,20.77,09-10-49,4
+109,The Boring Story,Alice Williams,Biography,15.19,11-26-90,5
+110,The Wonderful Journey,John Brown,Biography,42.56,07-23-07,14
+111,The Wonderful Saga,Alice Williams,Fantasy,24.59,06-29-21,4
+112,The Amazing Journey,Sarah Davis,Non-Fiction,15.77,06-23-14,2
+113,The Intriguing Adventure,Sarah Miller,Fantasy,5.94,07-06-03,20
+114,The Amazing Adventure,John Miller,Mystery,47.54,04-13-06,8
+115,The Wonderful Journey,David Williams,Mystery,43.57,01-02-52,7
+116,The Mysterious Tale,Michael Williams,Non-Fiction,42.82,05-10-13,20
+117,The Intriguing Tale,Sarah Garcia,Non-Fiction,25.65,11-14-60,3
+118,The Amazing Tale,Emily Johnson,Science Fiction,36.67,12-08-48,12
+119,The Boring Adventure,Alice Johnson,History,39.92,05-03-82,14
+120,The Amazing Adventure,Sarah Johnson,Non-Fiction,47.34,11-28-76,11
+121,The Boring Journey,Emily Garcia,Mystery,42.84,04-15-59,19
+122,The Intriguing Journey,Jane Davis,Non-Fiction,16.1,06-20-20,12
+123,The Wonderful Mystery,Michael Brown,Non-Fiction,26.13,11-12-00,6
+124,The Mysterious Story,Alice Smith,Fantasy,37.51,03-10-91,4
+125,The Fascinating Mystery,David Williams,Mystery,21.1,03-03-85,17
+126,The Intriguing Mystery,Sarah Brown,Non-Fiction,18.91,07-09-58,13
+127,The Amazing Adventure,David Brown,Mystery,49.81,07-08-03,8
+128,The Mysterious Saga,David Brown,Science Fiction,28.26,10-17-10,20
+129,The Amazing Adventure,Alice Garcia,History,21.66,03-03-74,4
+130,The Wonderful Adventure,Jane Brown,Non-Fiction,30.03,12-03-54,1
+131,The Mysterious Mystery,Jane Smith,History,16.3,02-13-68,3
+132,The Mysterious Adventure,Emily Garcia,Non-Fiction,20.09,03-17-29,1
+133,The Mysterious Story,Alice Davis,Fantasy,33.44,04-17-61,2
+134,The Intriguing Tale,Jane Brown,Non-Fiction,30.48,04-10-24,2
+135,The Wonderful Journey,Sarah Miller,Fiction,39.12,06-30-62,20
+136,The Intriguing Adventure,Michael Garcia,Non-Fiction,8.08,06-03-03,1
+137,The Intriguing Adventure,Sarah Smith,Non-Fiction,7.39,07-29-41,19
+138,The Wonderful Adventure,David Jones,Science Fiction,27.4,11-17-97,19
+139,The Amazing Saga,David Davis,Fiction,26.36,02-16-55,19
+140,The Intriguing Story,Sarah Davis,Science Fiction,13.05,01-02-18,8
+141,The Mysterious Mystery,David Miller,Fantasy,37.41,02-20-81,19
+142,The Amazing Journey,Sarah Garcia,Fiction,9.31,05-18-39,3
+143,The Mysterious Mystery,David Jones,Science Fiction,37.65,06-13-24,2
+144,The Mysterious Saga,Alice Garcia,Non-Fiction,32.89,01-19-58,2
+145,The Intriguing Tale,Bob Brown,History,5.57,03-23-41,18
+146,The Intriguing Story,John Williams,Fiction,13.93,06-27-45,17
+147,The Fascinating Saga,Michael Miller,Science Fiction,42.99,04-20-02,5
+148,The Amazing Saga,Alice Jones,History,15.93,10-04-30,5
+149,The Boring Mystery,Michael Garcia,History,39.62,08-13-03,1
+150,The Mysterious Story,Emily Williams,Mystery,47.75,02-24-23,15
+151,The Mysterious Mystery,Jane Brown,Science Fiction,47.64,01-19-22,5
+152,The Fascinating Journey,David Miller,History,23.55,01-04-00,19
+153,The Mysterious Journey,Jane Davis,Fiction,9.41,11-19-16,17
+154,The Wonderful Journey,Michael Miller,Non-Fiction,11.96,03-23-04,1
+155,The Amazing Journey,David Miller,Mystery,33.14,11-22-81,8
+156,The Amazing Adventure,David Davis,Fiction,37.46,03-06-24,13
+157,The Fascinating Story,Emily Williams,Fiction,21.87,08-04-80,4
+158,The Wonderful Adventure,Emily Jones,Biography,26.09,03-18-32,8
+159,The Fascinating Story,Sarah Davis,Science Fiction,39.76,04-11-49,1
+160,The Fascinating Tale,Emily Davis,Non-Fiction,47.65,07-21-22,3
+161,The Boring Mystery,Bob Jones,Science Fiction,34.07,11-27-66,9
+162,The Amazing Story,Emily Williams,History,46.16,06-17-15,18
+163,The Boring Story,Bob Miller,Mystery,43.9,05-26-23,8
+164,The Wonderful Adventure,Emily Garcia,Fiction,26.98,11-07-33,17
+165,The Amazing Tale,Jane Brown,Mystery,34.51,10-14-06,6
+166,The Boring Story,Bob Miller,Fantasy,35.31,05-23-54,6
+167,The Boring Journey,Emily Brown,Non-Fiction,33.06,06-21-03,12
+168,The Boring Journey,Bob Brown,Non-Fiction,48.42,12-05-30,9
+169,The Fascinating Tale,Michael Johnson,Fantasy,24.99,07-04-25,11
+170,The Fascinating Tale,John Garcia,Mystery,18.27,07-31-88,2
+171,The Amazing Mystery,John Smith,Fiction,11.37,05-24-13,14
+172,The Wonderful Adventure,Emily Williams,Biography,24.96,08-28-55,3
+173,The Mysterious Mystery,Michael Garcia,Mystery,42,04-23-17,9
+174,The Mysterious Story,Emily Brown,Fantasy,21.84,12-08-01,5
+175,The Mysterious Journey,Michael Brown,Fantasy,6.12,02-06-38,20
+176,The Boring Saga,Emily Brown,Non-Fiction,45.91,07-30-96,8
+177,The Amazing Adventure,Emily Brown,Fantasy,8.68,09-09-16,14
+178,The Wonderful Story,Michael Smith,Fiction,12.8,04-08-21,18
+179,The Intriguing Adventure,Sarah Johnson,Mystery,21.27,11-23-14,14
+180,The Intriguing Mystery,Sarah Williams,Non-Fiction,45.58,03-18-81,4
+181,The Intriguing Mystery,Jane Smith,Non-Fiction,10.46,10-10-27,19
+182,The Boring Tale,Emily Jones,Science Fiction,21.43,02-27-41,15
+183,The Mysterious Story,Alice Smith,History,44.88,04-12-97,7
+184,The Wonderful Mystery,Alice Williams,Fiction,6.34,06-28-90,10
+185,The Intriguing Saga,Bob Garcia,Biography,33.61,10-21-03,19
+186,The Boring Saga,David Brown,Fiction,42.16,06-12-23,13
+187,The Mysterious Adventure,Alice Brown,Fantasy,8.8,04-28-31,16
+188,The Fascinating Tale,David Smith,Biography,31.23,09-05-04,1
+189,The Boring Tale,Michael Garcia,Biography,49.04,10-23-70,3
+190,The Intriguing Tale,John Smith,Science Fiction,39.89,11-29-65,15
+191,The Mysterious Saga,Alice Garcia,Science Fiction,37.27,06-06-80,3
+192,The Mysterious Adventure,Jane Miller,Non-Fiction,28.15,09-18-60,9
+193,The Mysterious Story,Emily Brown,Fantasy,38.33,01-08-26,13
+194,The Wonderful Journey,Michael Jones,Fantasy,37.49,06-16-01,5
+195,The Wonderful Saga,Alice Jones,Biography,7.19,11-08-16,7
+196,The Wonderful Story,Sarah Williams,History,18.47,11-27-48,8
+197,The Mysterious Tale,Alice Williams,Fiction,45.03,03-09-44,15
+198,The Amazing Journey,Jane Jones,Biography,29.07,05-07-12,16
+199,The Fascinating Mystery,Emily Brown,Fiction,36.04,03-24-68,1
+200,The Wonderful Tale,Alice Garcia,Mystery,29.68,04-03-37,2
+201,The Mysterious Saga,Alice Williams,History,13.77,01-22-16,10
+202,The Mysterious Saga,Sarah Smith,Non-Fiction,28.55,10-28-61,6
+203,The Fascinating Story,Jane Williams,Mystery,15.47,11-26-34,14
+204,The Amazing Adventure,David Davis,Biography,30.5,11-23-01,7
+205,The Boring Journey,Michael Williams,Mystery,15.32,03-09-46,4
+206,The Boring Journey,Michael Smith,Non-Fiction,28.11,03-12-68,1
+207,The Wonderful Tale,Michael Garcia,History,36.82,08-03-31,19
+208,The Mysterious Story,David Davis,Fantasy,42.63,04-21-63,12
+209,The Amazing Story,Alice Miller,Science Fiction,9,06-26-58,16
+210,The Amazing Saga,Jane Johnson,Science Fiction,43.15,01-20-10,1
+211,The Mysterious Journey,John Smith,Non-Fiction,18.41,08-17-89,4
+212,The Mysterious Adventure,Alice Jones,Biography,19.79,05-08-07,10
+213,The Wonderful Story,Bob Miller,Non-Fiction,35.09,06-08-35,7
+214,The Amazing Journey,Sarah Johnson,Non-Fiction,9.27,03-28-78,10
+215,The Boring Adventure,Michael Garcia,Fantasy,45.91,05-19-61,8
+216,The Fascinating Tale,Michael Davis,Mystery,14.68,04-27-63,3
+217,The Wonderful Story,Alice Smith,Non-Fiction,44.74,12-01-37,2
+218,The Intriguing Tale,Michael Williams,Biography,39.04,12-02-99,16
+219,The Fascinating Tale,Emily Garcia,Mystery,6.17,11-17-00,15
+220,The Wonderful Adventure,Michael Brown,Fantasy,30.58,04-10-43,19
+221,The Fascinating Story,Bob Johnson,History,39.93,09-21-15,14
+222,The Intriguing Adventure,Alice Brown,Mystery,48.75,02-09-40,14
+223,The Intriguing Mystery,Jane Jones,History,11,11-29-44,14
+224,The Fascinating Story,Bob Brown,Fiction,11.59,10-11-81,18
+225,The Fascinating Tale,John Johnson,Science Fiction,28.09,06-03-21,9
+226,The Fascinating Saga,Sarah Miller,Science Fiction,35.61,03-14-21,1
+227,The Wonderful Adventure,Bob Johnson,Fantasy,13.58,09-16-97,18
+228,The Wonderful Saga,Sarah Miller,Science Fiction,32.85,08-30-29,5
+229,The Intriguing Mystery,David Jones,Fiction,38.1,08-23-13,3
+230,The Mysterious Story,David Garcia,Non-Fiction,27.02,09-13-81,14
+231,The Fascinating Adventure,David Johnson,Science Fiction,21.66,11-14-28,6
+232,The Boring Adventure,Emily Davis,Biography,11.94,04-10-77,9
+233,The Boring Journey,Sarah Williams,Biography,32.81,06-15-49,17
+234,The Wonderful Tale,Alice Williams,Science Fiction,45.15,02-29-08,17
+235,The Amazing Story,Alice Brown,Science Fiction,15.29,09-11-23,15
+236,The Fascinating Mystery,Jane Davis,History,24.74,07-15-11,3
+237,The Mysterious Adventure,Jane Garcia,Mystery,20.06,10-05-09,4
+238,The Wonderful Adventure,John Williams,Mystery,7.67,11-14-72,18
+239,The Intriguing Adventure,Alice Garcia,Fantasy,37.17,05-06-02,11
+240,The Mysterious Journey,Sarah Williams,History,11.34,04-20-10,20
+241,The Amazing Journey,Michael Williams,Biography,33.18,03-17-65,6
+242,The Amazing Mystery,Alice Smith,Non-Fiction,23.75,09-24-15,2
+243,The Boring Mystery,Michael Smith,Mystery,27.58,12-05-22,5
+244,The Intriguing Saga,John Smith,Non-Fiction,18.91,10-28-34,12
+245,The Mysterious Mystery,David Williams,History,13.33,01-18-37,19
+246,The Wonderful Mystery,Michael Johnson,History,45.34,04-27-84,4
+247,The Intriguing Story,David Smith,Non-Fiction,46.48,11-19-55,14
+248,The Mysterious Adventure,Sarah Garcia,Biography,15.68,01-27-85,5
+249,The Boring Saga,Emily Jones,Mystery,16.13,11-10-99,5
+250,The Wonderful Saga,Alice Miller,Fiction,13.89,04-23-07,4
+251,The Intriguing Adventure,David Johnson,Non-Fiction,25.66,04-05-07,16
+252,The Fascinating Mystery,Emily Johnson,Biography,10.64,01-16-39,3
+253,The Boring Saga,Alice Smith,Science Fiction,11.27,09-17-57,4
+254,The Mysterious Journey,David Johnson,History,26.73,08-30-05,11
+255,The Mysterious Journey,Bob Williams,Biography,10.66,02-12-07,9
+256,The Wonderful Journey,Bob Johnson,Science Fiction,19.19,07-28-12,2
+257,The Amazing Story,David Davis,Mystery,22.34,01-27-36,6
+258,The Mysterious Mystery,Bob Miller,Biography,39.67,01-14-97,8
+259,The Intriguing Adventure,Jane Jones,History,37.57,11-12-04,11
+260,The Mysterious Adventure,Sarah Miller,Mystery,38.66,05-16-75,13
+261,The Amazing Saga,Emily Smith,Biography,39.03,06-03-47,7
+262,The Boring Mystery,Sarah Davis,Science Fiction,43.78,10-15-55,15
+263,The Amazing Saga,Bob Garcia,Science Fiction,29.05,10-24-08,12
+264,The Intriguing Journey,John Garcia,Non-Fiction,25.1,06-24-30,18
+265,The Intriguing Saga,Jane Garcia,Mystery,46.77,10-12-22,15
+266,The Amazing Mystery,Emily Garcia,Fantasy,39.86,12-29-36,15
+267,The Boring Story,John Miller,Science Fiction,11.27,06-09-27,16
+268,The Fascinating Tale,John Williams,History,38.68,09-05-08,4
+269,The Mysterious Story,Michael Brown,Fantasy,47.9,01-31-00,2
+270,The Boring Mystery,Jane Smith,History,36.12,05-24-18,11
+271,The Wonderful Story,David Miller,Non-Fiction,10.94,06-27-56,18
+272,The Boring Adventure,Michael Williams,History,43.38,02-22-23,9
+273,The Fascinating Mystery,David Smith,Fiction,36.98,12-23-25,9
+274,The Amazing Mystery,John Miller,Mystery,23.22,09-24-24,12
+275,The Wonderful Adventure,John Johnson,Mystery,49.86,11-18-60,12
+276,The Amazing Mystery,Jane Miller,Mystery,29.74,04-07-86,9
+277,The Fascinating Mystery,Jane Brown,Fantasy,43.72,02-25-70,9
+278,The Wonderful Story,Sarah Williams,Science Fiction,27.83,02-26-50,9
+279,The Amazing Adventure,Jane Williams,Fantasy,24.5,12-04-35,19
+280,The Wonderful Story,Alice Miller,Fantasy,32.9,10-07-73,7
+281,The Fascinating Adventure,Sarah Miller,Science Fiction,23.07,10-17-49,8
+282,The Wonderful Mystery,John Brown,Mystery,7.73,03-06-80,6
+283,The Boring Saga,Michael Johnson,Non-Fiction,45.81,12-30-34,11
+284,The Fascinating Saga,Alice Davis,Science Fiction,41.55,06-23-98,13
+285,The Amazing Tale,Alice Garcia,Fantasy,27.93,05-02-96,15
+286,The Fascinating Journey,John Davis,Fiction,44.93,03-23-17,16
+287,The Intriguing Adventure,Jane Johnson,Fiction,12.81,12-04-20,2
+288,The Amazing Story,Jane Johnson,Non-Fiction,8.62,10-09-37,12
+289,The Mysterious Saga,David Jones,Fiction,15.17,02-10-49,7
+290,The Intriguing Adventure,David Johnson,Non-Fiction,39.94,09-17-70,20
+291,The Amazing Story,John Miller,History,26.71,12-05-44,18
+292,The Mysterious Story,Bob Smith,Non-Fiction,16.19,06-19-60,10
+293,The Wonderful Saga,Jane Garcia,Biography,28.1,10-08-07,2
+294,The Amazing Mystery,Bob Miller,History,31.77,11-22-96,8
+295,The Fascinating Saga,Alice Jones,History,27.91,09-21-99,5
+296,The Fascinating Adventure,Bob Garcia,Science Fiction,6.79,06-09-60,1
+297,The Wonderful Tale,John Williams,Mystery,44.18,04-12-13,18
+298,The Intriguing Saga,John Smith,Fantasy,18.65,09-29-69,11
+299,The Boring Story,Bob Smith,Science Fiction,37.72,01-10-13,14
+300,The Amazing Saga,Jane Jones,Biography,28.72,10-13-05,8
+301,The Intriguing Story,Jane Miller,Mystery,31.25,07-05-96,6
+302,The Fascinating Saga,David Garcia,Non-Fiction,33.46,03-21-23,8
+303,The Amazing Journey,Sarah Johnson,Mystery,40.9,07-29-20,18
+304,The Mysterious Adventure,Sarah Davis,Non-Fiction,27.84,09-09-98,19
+305,The Amazing Story,Emily Jones,Biography,13.01,11-11-57,10
+306,The Intriguing Tale,John Smith,Biography,9.47,09-04-47,14
+307,The Mysterious Mystery,Emily Johnson,Science Fiction,42.25,03-01-24,16
+308,The Boring Adventure,David Smith,Science Fiction,46.04,09-23-34,3
+309,The Fascinating Saga,Jane Smith,Biography,11.8,02-26-33,9
+310,The Mysterious Story,Alice Williams,Fantasy,6.1,09-28-57,12
+311,The Wonderful Mystery,David Williams,Science Fiction,17.62,03-10-88,13
+312,The Wonderful Adventure,Sarah Williams,Biography,15.17,03-31-11,2
+313,The Amazing Tale,Michael Williams,Mystery,40.27,11-28-13,6
+314,The Amazing Tale,Jane Johnson,Non-Fiction,5.91,07-10-09,17
+315,The Wonderful Story,Sarah Smith,History,28.97,11-02-24,1
+316,The Wonderful Story,David Johnson,Science Fiction,37.16,05-19-22,19
+317,The Fascinating Tale,Sarah Miller,History,11.1,07-25-92,9
+318,The Boring Tale,John Brown,Mystery,35.61,08-30-05,19
+319,The Amazing Saga,David Jones,Non-Fiction,39.94,03-13-22,13
+320,The Amazing Tale,Jane Smith,Fiction,19.63,10-30-96,9
+321,The Mysterious Mystery,David Garcia,Non-Fiction,15.58,05-24-99,5
+322,The Wonderful Saga,John Jones,Science Fiction,33.2,12-31-36,4
+323,The Boring Adventure,John Johnson,History,18.72,03-13-38,2
+324,The Wonderful Saga,Sarah Jones,Mystery,43.32,07-24-11,13
+325,The Wonderful Saga,Jane Miller,Science Fiction,8.92,06-04-67,7
+326,The Intriguing Mystery,Michael Jones,Fantasy,44.49,02-22-18,7
+327,The Fascinating Story,Emily Smith,Fiction,6.44,12-30-01,8
+328,The Fascinating Story,David Johnson,Biography,24.8,03-15-31,9
+329,The Fascinating Adventure,John Miller,History,26.3,08-25-40,2
+330,The Wonderful Mystery,Bob Garcia,Biography,22.22,05-17-26,11
+331,The Boring Journey,Jane Johnson,History,41.48,11-27-12,5
+332,The Boring Tale,John Jones,History,17.61,02-03-10,8
+333,The Intriguing Mystery,Jane Johnson,Mystery,10.27,05-18-16,11
+334,The Intriguing Journey,David Jones,History,6.68,05-17-52,13
+335,The Amazing Tale,Bob Brown,Fantasy,12.77,12-29-13,11
+336,The Mysterious Mystery,Bob Williams,Science Fiction,30.86,04-07-31,5
+337,The Intriguing Journey,John Jones,Science Fiction,14.08,02-03-65,14
+338,The Wonderful Saga,Jane Garcia,Fiction,48.7,02-08-37,20
+339,The Boring Story,Emily Miller,Non-Fiction,49.75,11-28-35,4
+340,The Fascinating Adventure,Alice Jones,Fiction,34.1,05-16-38,3
+341,The Boring Mystery,Jane Johnson,Fantasy,8.09,07-26-32,18
+342,The Wonderful Saga,Jane Brown,Non-Fiction,46.88,10-10-76,11
+343,The Intriguing Journey,John Williams,History,24.32,08-25-19,2
+344,The Amazing Story,Michael Miller,Mystery,37.2,04-21-41,4
+345,The Wonderful Saga,Bob Garcia,Non-Fiction,30.93,05-11-23,4
+346,The Intriguing Saga,Alice Brown,Non-Fiction,39.13,05-24-76,19
+347,The Wonderful Story,Emily Williams,Mystery,44.34,06-16-99,15
+348,The Fascinating Saga,Jane Garcia,Fantasy,7.35,01-31-46,5
+349,The Intriguing Mystery,Alice Miller,Fiction,8.19,05-03-18,13
+350,The Intriguing Saga,Emily Johnson,Science Fiction,10.53,12-13-08,11
+351,The Fascinating Story,John Williams,Mystery,28.38,12-21-05,11
+352,The Wonderful Saga,Michael Brown,Biography,45.75,04-11-73,7
+353,The Amazing Adventure,John Williams,Fiction,17.58,01-12-99,19
+354,The Boring Story,Bob Davis,Science Fiction,44.08,09-27-20,12
+355,The Boring Adventure,David Garcia,Non-Fiction,42.25,01-28-99,14
+356,The Wonderful Adventure,Emily Williams,History,18.4,04-16-95,12
+357,The Amazing Saga,Bob Miller,Fiction,33.22,08-14-75,4
+358,The Wonderful Tale,Bob Smith,Fantasy,45.07,11-15-45,8
+359,The Fascinating Tale,Bob Davis,Mystery,45.28,01-29-57,3
+360,The Wonderful Adventure,John Jones,History,14.69,08-26-62,13
+361,The Intriguing Adventure,Jane Johnson,Science Fiction,32.36,11-03-15,17
+362,The Intriguing Journey,Emily Davis,Fantasy,19.92,05-29-12,4
+363,The Boring Story,Sarah Davis,Mystery,11.44,08-15-93,12
+364,The Intriguing Story,Bob Jones,Biography,46.31,04-16-39,7
+365,The Boring Journey,Jane Brown,Fantasy,42.97,02-25-23,14
+366,The Wonderful Story,Emily Jones,Fiction,28.66,12-13-45,18
+367,The Intriguing Adventure,Michael Jones,Science Fiction,24.69,08-27-05,10
+368,The Fascinating Adventure,Alice Davis,Fantasy,46.42,11-24-74,11
+369,The Intriguing Tale,Jane Garcia,Science Fiction,7.06,02-13-66,18
+370,The Boring Saga,Emily Garcia,Mystery,24.97,11-09-44,1
+371,The Wonderful Saga,Sarah Garcia,Mystery,31.69,07-10-39,20
+372,The Mysterious Adventure,Bob Garcia,Science Fiction,19.66,09-18-46,14
+373,The Wonderful Mystery,Jane Miller,Fantasy,24.92,06-11-05,17
+374,The Mysterious Adventure,Sarah Garcia,History,22.93,04-30-55,15
+375,The Fascinating Journey,David Miller,Science Fiction,18.77,03-24-01,15
+376,The Intriguing Journey,John Garcia,Fiction,49.79,06-30-27,15
+377,The Intriguing Story,Sarah Williams,Non-Fiction,43.04,04-21-49,12
+378,The Boring Adventure,Bob Miller,Fiction,39.33,07-29-59,15
+379,The Intriguing Adventure,John Williams,Fantasy,42.55,05-07-21,4
+380,The Mysterious Mystery,Emily Johnson,History,37.63,04-14-49,19
+381,The Wonderful Adventure,Emily Garcia,Mystery,49.6,02-03-49,15
+382,The Wonderful Story,Bob Williams,History,17.99,11-03-26,18
+383,The Amazing Adventure,Bob Smith,Fiction,43.04,08-14-80,3
+384,The Fascinating Tale,Michael Smith,Fiction,35.98,01-08-20,13
+385,The Boring Adventure,Emily Miller,History,36.43,05-17-79,2
+386,The Intriguing Story,Jane Johnson,Fiction,13.68,03-08-75,11
+387,The Mysterious Tale,John Garcia,Science Fiction,41.08,08-05-43,20
+388,The Amazing Saga,Alice Brown,Non-Fiction,17.85,12-29-22,11
+389,The Boring Saga,John Williams,Non-Fiction,36.34,02-25-62,19
+390,The Amazing Adventure,Sarah Jones,Fantasy,39.29,05-03-07,20
+391,The Boring Saga,Bob Smith,Non-Fiction,33.9,10-05-83,6
+392,The Mysterious Saga,Bob Johnson,Non-Fiction,42.6,03-07-81,20
+393,The Amazing Story,David Smith,Mystery,40.71,05-01-21,8
+394,The Intriguing Story,Emily Miller,Fantasy,38.42,07-11-26,11
+395,The Amazing Adventure,John Johnson,Science Fiction,22.52,03-24-76,3
+396,The Boring Story,David Johnson,Science Fiction,46.89,11-09-03,7
+397,The Fascinating Story,David Williams,Mystery,10.93,05-08-15,7
+398,The Amazing Tale,Sarah Miller,Mystery,7.26,10-22-94,15
+399,The Amazing Adventure,Michael Brown,Science Fiction,42.53,07-15-68,3
+400,The Wonderful Journey,Bob Garcia,Mystery,43.59,06-03-85,2
+401,The Amazing Journey,Michael Brown,Non-Fiction,31.58,08-09-06,7
+402,The Mysterious Mystery,Michael Jones,Mystery,11.41,07-30-74,1
+403,The Boring Tale,Bob Brown,History,29.25,08-13-68,16
+404,The Intriguing Mystery,Michael Garcia,Fiction,40.2,12-10-21,18
+405,The Amazing Tale,Bob Miller,Science Fiction,16.57,05-30-39,9
+406,The Fascinating Tale,Bob Johnson,Fiction,48.96,08-31-94,18
+407,The Mysterious Saga,Jane Jones,Mystery,29.12,04-16-60,3
+408,The Fascinating Journey,John Williams,Mystery,49.16,08-27-74,8
+409,The Fascinating Tale,Michael Davis,Fiction,6.29,02-23-61,14
+410,The Boring Journey,Alice Davis,Fiction,39.93,12-24-73,6
+411,The Wonderful Saga,John Smith,Fantasy,49.49,05-01-40,15
+412,The Mysterious Story,Bob Jones,History,29.89,09-23-82,8
+413,The Boring Journey,John Jones,History,46.96,06-23-96,9
+414,The Fascinating Tale,John Miller,Fantasy,36.5,09-23-47,6
+415,The Amazing Journey,David Williams,Science Fiction,16.85,05-15-68,8
+416,The Boring Saga,Sarah Jones,Fiction,25.15,09-01-67,13
+417,The Mysterious Adventure,Michael Smith,Fiction,18.55,01-23-47,8
+418,The Boring Adventure,Bob Brown,Biography,32.85,10-17-07,17
+419,The Wonderful Mystery,Michael Garcia,Mystery,35.63,06-27-12,18
+420,The Fascinating Story,Sarah Johnson,History,12.15,01-16-13,15
+421,The Wonderful Adventure,Sarah Williams,Mystery,27.88,07-31-65,18
+422,The Fascinating Tale,Alice Davis,Science Fiction,36.11,12-18-58,16
+423,The Wonderful Story,Jane Jones,Biography,12.79,10-27-66,11
+424,The Intriguing Tale,Sarah Johnson,Fantasy,29.38,06-28-71,17
+425,The Boring Mystery,David Johnson,Fantasy,35.92,01-02-23,11
+426,The Fascinating Story,Sarah Johnson,History,23.55,10-16-43,20
+427,The Boring Tale,Jane Jones,History,29.55,01-21-81,17
+428,The Amazing Tale,John Brown,Biography,39.27,04-11-38,15
+429,The Boring Tale,Bob Jones,Science Fiction,25.67,08-11-08,20
+430,The Wonderful Story,John Davis,Biography,13.38,08-05-56,13
+431,The Amazing Mystery,Sarah Garcia,History,14.2,03-18-35,7
+432,The Intriguing Mystery,Jane Smith,Fiction,40.74,07-09-70,7
+433,The Amazing Mystery,Michael Miller,Science Fiction,44.44,02-18-74,17
+434,The Wonderful Journey,David Jones,Mystery,35.85,12-04-00,9
+435,The Wonderful Tale,Emily Jones,History,15.14,07-24-15,19
+436,The Intriguing Adventure,David Williams,History,13.34,10-02-03,19
+437,The Intriguing Tale,Sarah Brown,History,8.96,03-06-33,17
+438,The Fascinating Adventure,Bob Miller,Biography,45.64,06-06-76,11
+439,The Fascinating Adventure,John Miller,Mystery,42.17,04-22-12,8
+440,The Wonderful Journey,Emily Williams,Biography,36.22,08-02-89,16
+441,The Mysterious Adventure,Alice Johnson,Fiction,24.24,03-11-19,11
+442,The Mysterious Tale,Bob Davis,Fantasy,19.03,02-05-16,15
+443,The Amazing Mystery,Sarah Jones,Fantasy,14.99,07-31-25,14
+444,The Boring Adventure,Emily Johnson,Biography,8.64,12-29-93,14
+445,The Boring Tale,Alice Smith,Biography,33.98,08-14-88,15
+446,The Intriguing Adventure,Bob Davis,Fiction,19.71,05-13-22,5
+447,The Amazing Adventure,Alice Smith,Mystery,20.25,05-26-11,17
+448,The Boring Journey,Alice Davis,Fantasy,40.47,11-26-32,4
+449,The Amazing Story,David Garcia,Fiction,43.66,08-17-14,13
+450,The Mysterious Journey,Bob Smith,Non-Fiction,16.76,11-10-60,5
+451,The Boring Saga,Alice Davis,Mystery,20.87,02-10-61,13
+452,The Fascinating Tale,Michael Jones,Fiction,23.59,11-18-08,2
+453,The Intriguing Adventure,David Williams,Biography,24.72,06-05-19,18
+454,The Mysterious Tale,Michael Garcia,History,11.7,01-02-31,5
+455,The Intriguing Story,Michael Johnson,Fantasy,31.22,02-29-48,12
+456,The Boring Story,David Smith,Mystery,45.28,11-20-10,6
+457,The Amazing Tale,Bob Brown,History,29.19,12-26-33,7
+458,The Fascinating Adventure,Alice Brown,Mystery,35.81,05-01-11,17
+459,The Boring Adventure,Emily Garcia,Fantasy,32.59,02-11-67,18
+460,The Amazing Saga,Michael Smith,Fiction,25.41,02-28-73,2
+461,The Intriguing Saga,John Garcia,Fiction,18.67,12-28-50,13
+462,The Mysterious Adventure,Sarah Davis,Fantasy,24.07,05-30-46,17
+463,The Fascinating Story,Jane Smith,Fantasy,36.67,10-16-96,13
+464,The Fascinating Mystery,John Williams,History,35.05,11-18-42,20
+465,The Fascinating Tale,John Garcia,Non-Fiction,6.59,04-19-16,8
+466,The Wonderful Saga,Alice Smith,Fiction,8.93,12-18-06,10
+467,The Mysterious Saga,John Williams,Fantasy,32.32,09-24-53,11
+468,The Boring Journey,Sarah Smith,Fiction,20.66,01-24-79,12
+469,The Intriguing Journey,Michael Brown,Biography,35.87,05-08-46,2
+470,The Intriguing Story,Michael Williams,History,49.32,02-02-19,4
+471,The Wonderful Journey,David Jones,Fiction,33.45,06-11-16,3
+472,The Mysterious Journey,Sarah Jones,History,16.52,01-30-24,13
+473,The Wonderful Tale,John Smith,Fantasy,30.57,02-17-22,16
+474,The Mysterious Story,David Davis,Science Fiction,21.6,10-22-31,9
+475,The Fascinating Adventure,Michael Williams,Fantasy,26.67,03-29-10,20
+476,The Amazing Saga,Michael Smith,Biography,46.35,03-02-87,4
+477,The Wonderful Story,Jane Brown,History,27.73,12-13-05,9
+478,The Amazing Saga,Michael Miller,History,9.75,08-08-30,14
+479,The Intriguing Adventure,David Davis,Biography,33.74,01-08-14,14
+480,The Mysterious Saga,Emily Williams,History,7.27,01-06-26,9
+481,The Intriguing Mystery,Michael Davis,Mystery,27.79,12-02-66,1
+482,The Fascinating Tale,Emily Brown,Biography,35.76,06-17-49,8
+483,The Wonderful Tale,Sarah Williams,Biography,45.35,07-28-17,16
+484,The Intriguing Mystery,John Garcia,Science Fiction,10.81,08-03-96,18
+485,The Intriguing Tale,Jane Smith,Fiction,43.2,05-09-58,2
+486,The Mysterious Adventure,John Smith,Mystery,8.11,03-26-47,4
+487,The Boring Saga,Jane Miller,Mystery,31.73,12-06-81,19
+488,The Boring Tale,Michael Smith,Non-Fiction,9.87,09-05-03,1
+489,The Boring Saga,Michael Johnson,Fantasy,13.33,03-10-07,2
+490,The Boring Saga,John Garcia,Mystery,12.1,06-13-28,17
+491,The Intriguing Journey,David Jones,Science Fiction,18.7,05-08-39,9
+492,The Wonderful Saga,Jane Williams,Non-Fiction,7.93,10-27-03,13
+493,The Amazing Saga,David Smith,History,14.59,07-11-01,1
+494,The Wonderful Mystery,David Garcia,Biography,10.86,05-02-94,17
+495,The Boring Story,Bob Jones,History,31.34,08-28-14,17
+496,The Boring Adventure,Michael Brown,Science Fiction,32.85,12-22-14,19
+497,The Boring Story,Alice Johnson,Fiction,9.28,08-23-54,19
+498,The Wonderful Story,Jane Johnson,Mystery,49.26,12-15-57,8
+499,The Fascinating Journey,Emily Johnson,Mystery,49.21,05-04-40,14
+500,The Intriguing Mystery,David Davis,Biography,45.02,01-06-66,19
+501,The Mysterious Tale,Emily Garcia,History,7.23,03-14-99,11
+502,The Boring Mystery,David Johnson,Biography,8.22,11-17-62,20
+503,The Boring Journey,Emily Brown,Fantasy,25.35,06-17-36,2
+504,The Amazing Saga,Bob Jones,Biography,41.44,01-21-42,16
+505,The Wonderful Story,Bob Jones,Fiction,39.25,03-13-59,13
+506,The Boring Mystery,David Miller,Fiction,12.24,06-15-87,20
+507,The Wonderful Journey,Michael Brown,Non-Fiction,34.19,06-17-80,4
+508,The Wonderful Story,Michael Davis,Fantasy,5.17,07-07-04,14
+509,The Amazing Saga,Jane Miller,Biography,25.93,11-14-67,11
+510,The Mysterious Journey,Jane Jones,Fiction,38.16,12-01-23,20
+511,The Boring Saga,Sarah Davis,Fiction,46.43,04-23-96,14
+512,The Boring Adventure,Michael Brown,Mystery,22.94,04-14-04,4
+513,The Wonderful Tale,Bob Johnson,Fiction,10.37,11-11-71,12
+514,The Boring Adventure,John Garcia,History,16.52,02-17-53,13
+515,The Wonderful Saga,Jane Davis,Fantasy,42.82,08-07-41,9
+516,The Fascinating Saga,Michael Johnson,Biography,23.57,07-11-58,5
+517,The Amazing Saga,John Jones,Biography,23.6,02-02-49,20
+518,The Intriguing Tale,David Jones,Biography,39.37,02-16-07,14
+519,The Intriguing Story,David Garcia,Non-Fiction,33.55,07-27-12,11
+520,The Amazing Tale,Emily Davis,History,31.58,05-23-84,3
+521,The Amazing Adventure,David Jones,Science Fiction,36.21,01-25-63,18
+522,The Fascinating Journey,John Smith,History,16.83,06-05-76,7
+523,The Mysterious Saga,Sarah Smith,Fantasy,48.02,07-16-97,12
+524,The Wonderful Adventure,Jane Smith,Fantasy,39.38,08-23-21,10
+525,The Mysterious Mystery,Jane Brown,History,34.67,02-20-96,14
+526,The Wonderful Mystery,Jane Smith,Fantasy,45.9,06-12-03,5
+527,The Amazing Adventure,Bob Brown,History,32.38,07-09-08,15
+528,The Boring Journey,Alice Smith,Non-Fiction,47.12,12-25-00,20
+529,The Mysterious Adventure,David Garcia,History,31.8,09-16-59,12
+530,The Fascinating Journey,Sarah Miller,Fantasy,23.87,12-05-78,14
+531,The Mysterious Tale,Michael Jones,History,28.96,06-06-47,4
+532,The Wonderful Mystery,Emily Brown,Mystery,38.69,03-01-06,6
+533,The Fascinating Tale,Sarah Miller,Mystery,21.43,09-10-01,11
+534,The Boring Saga,Bob Davis,Non-Fiction,47.85,01-01-74,12
+535,The Intriguing Story,Sarah Williams,Non-Fiction,49.56,10-30-30,16
+536,The Wonderful Journey,Jane Johnson,Fantasy,14.25,10-03-45,1
+537,The Wonderful Adventure,Jane Jones,Fiction,38.21,05-06-82,5
+538,The Boring Tale,John Miller,Mystery,21.57,11-10-33,13
+539,The Amazing Mystery,John Jones,History,43.59,08-05-02,20
+540,The Intriguing Mystery,Alice Miller,Non-Fiction,30.74,12-18-99,13
+541,The Amazing Story,Alice Jones,Non-Fiction,36.29,12-04-53,16
+542,The Mysterious Adventure,Bob Williams,Fantasy,27.61,01-30-17,2
+543,The Mysterious Journey,Alice Brown,Science Fiction,11.41,02-24-69,20
+544,The Amazing Saga,David Jones,Biography,30.26,10-13-27,11
+545,The Boring Journey,David Davis,Biography,35.43,11-21-76,20
+546,The Intriguing Saga,Bob Brown,Biography,12.93,10-15-23,10
+547,The Amazing Mystery,John Smith,Biography,8.85,04-07-46,8
+548,The Boring Adventure,Sarah Smith,Fiction,48.22,10-28-68,8
+549,The Amazing Saga,John Johnson,Fantasy,19.32,04-05-49,1
+550,The Intriguing Tale,David Garcia,Fiction,26.09,02-02-27,7
+551,The Amazing Story,John Jones,Fiction,45.31,09-24-37,14
+552,The Fascinating Mystery,Emily Miller,Fantasy,15.54,05-30-93,16
+553,The Wonderful Journey,John Williams,Fiction,49.09,07-16-47,2
+554,The Intriguing Journey,Bob Williams,Non-Fiction,10.67,04-12-88,4
+555,The Amazing Journey,Bob Miller,Biography,16.01,10-26-19,11
+556,The Mysterious Journey,John Miller,Science Fiction,8.61,07-25-69,7
+557,The Fascinating Story,Michael Jones,History,7.39,02-02-37,15
+558,The Boring Story,Emily Garcia,Mystery,41.85,04-16-23,1
+559,The Boring Saga,Emily Smith,History,37.07,06-27-20,14
+560,The Intriguing Tale,Jane Jones,Biography,40.01,08-07-40,1
+561,The Wonderful Journey,Michael Garcia,History,28.05,07-26-46,15
+562,The Fascinating Story,John Miller,History,48.78,06-22-08,18
+563,The Boring Mystery,John Jones,Fiction,42.76,11-21-02,16
+564,The Fascinating Saga,Sarah Davis,Fiction,8.38,01-20-10,3
+565,The Amazing Tale,David Smith,Non-Fiction,30.85,05-02-08,2
+566,The Boring Journey,Bob Smith,Fiction,32.67,02-16-36,7
+567,The Mysterious Journey,Emily Smith,Fiction,49.87,10-07-28,14
+568,The Fascinating Adventure,Bob Smith,Fantasy,22.29,02-26-49,15
+569,The Wonderful Journey,Jane Johnson,Non-Fiction,46.41,07-17-93,4
+570,The Fascinating Adventure,Michael Davis,Science Fiction,6.3,05-29-10,11
+571,The Fascinating Mystery,Bob Johnson,Biography,42.99,05-08-37,13
+572,The Boring Tale,Emily Miller,Science Fiction,17.89,10-16-00,19
+573,The Amazing Journey,Bob Williams,Science Fiction,45.01,09-14-61,3
+574,The Fascinating Journey,David Smith,Fiction,48.76,11-05-34,11
+575,The Boring Adventure,Michael Brown,Fiction,25.38,06-22-13,18
+576,The Mysterious Tale,Alice Miller,Non-Fiction,5.53,11-27-14,15
+577,The Amazing Mystery,David Davis,Fantasy,16.51,10-10-26,13
+578,The Intriguing Saga,Michael Williams,Biography,7.89,11-01-24,13
+579,The Fascinating Mystery,Sarah Miller,History,22.45,09-03-15,7
+580,The Intriguing Adventure,Michael Brown,Mystery,48.61,11-07-74,17
+581,The Wonderful Mystery,Bob Williams,Science Fiction,24.26,11-05-83,15
+582,The Mysterious Story,Sarah Johnson,Fiction,26.06,03-28-13,2
+583,The Boring Saga,Emily Johnson,Biography,46.28,09-21-40,17
+584,The Wonderful Adventure,Alice Garcia,Fantasy,16.96,11-13-90,9
+585,The Wonderful Story,Michael Williams,Non-Fiction,48.19,06-08-15,13
+586,The Mysterious Journey,Sarah Williams,Science Fiction,32.5,02-09-05,4
+587,The Mysterious Story,Michael Garcia,Non-Fiction,33.38,03-28-93,3
+588,The Boring Mystery,Michael Garcia,Fiction,25.95,12-24-64,20
+589,The Intriguing Saga,Sarah Smith,Science Fiction,17.24,10-27-39,20
+590,The Mysterious Journey,Jane Jones,Fantasy,31.76,01-01-64,17
+591,The Amazing Journey,Bob Garcia,History,8.2,08-28-05,7
+592,The Boring Journey,Emily Johnson,Biography,27.46,11-05-70,13
+593,The Wonderful Tale,Emily Garcia,Non-Fiction,45.61,07-19-49,8
+594,The Boring Saga,Sarah Williams,Non-Fiction,12.48,12-09-90,11
+595,The Boring Mystery,John Miller,History,31.14,02-07-32,4
+596,The Amazing Journey,Michael Williams,Mystery,48.36,09-02-29,10
+597,The Mysterious Adventure,Alice Miller,Non-Fiction,19.57,12-24-32,12
+598,The Mysterious Adventure,Bob Brown,Mystery,42.72,06-13-40,20
+599,The Fascinating Story,Alice Garcia,Science Fiction,35.72,04-03-41,15
+600,The Amazing Journey,Sarah Brown,Fiction,23.35,07-28-30,9
